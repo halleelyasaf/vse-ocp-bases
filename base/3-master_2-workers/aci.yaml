@@ -12,3 +12,4 @@ metadata:
 spec:
   provisionRequirements:
     controlPlaneAgents: 3
+    compute: 2
