@@ -12,4 +12,4 @@ metadata:
 spec:
   provisionRequirements:
     controlPlaneAgents: 3
-    WorkerAgents: 2
+    workerAgents: 2
